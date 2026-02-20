@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Runtime
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+*.nupkg
+.nuget/
+
+# OS
+.DS_Store
+Thumbs.db
